@@ -1,4 +1,6 @@
-# Self-Adapting Language Models
+This project is derived from https://github.com/Continual-Intelligence/SEAL.git by Adam Zweiger, licensed under the IT License (MIT-style)
+
+<!-- # Self-Adapting Language Models
 
 [Paper](https://arxiv.org/abs/2506.10943), [Website](https://jyopari.github.io/posts/seal)
 
@@ -79,4 +81,4 @@ If you found this work useful, please cite:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2506.10943}, 
 }
-```
+``` -->
